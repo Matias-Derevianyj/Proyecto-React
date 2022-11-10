@@ -1,0 +1,65 @@
+[
+    {   
+        "id": 1,
+        "nombre":"Zapatillas Jordan 1",
+        "precio":40000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/jordan.jpg",
+        "categoria":1
+    },
+    {   
+        "id": 2,
+        "nombre":"Zapatillas Lebron 5",
+        "precio":43000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/lebron.jpg",
+        "categoria":1
+    },
+    {   
+        "id": 3,
+        "nombre":"Zapatillas Irving 7",
+        "precio":41000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/irving.jpg",
+        "categoria":1
+    },
+    {   
+        "id": 4,
+        "nombre":"Zapatillas Durant 2",
+        "precio":49000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/durant.jpg",
+        "categoria":1
+    },
+    {   
+        "id": 5,
+        "nombre":"Zapatillas Morant 9",
+        "precio":48000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/morant.jpg",
+        "categoria":1
+    },
+    {   
+        "id": 6,
+        "nombre":"Zapatillas Curry 3",
+        "precio":46000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/curry.jpg",
+        "categoria":1
+    },
+    {   
+        "id": 7,
+        "nombre":"Zapatillas Giannis 00",
+        "precio":46000,
+        "talla":"40, 41, 42, 43, 44, 45",
+        "stock":"10",
+        "img":"/img/giannis.jpg",
+        "categoria":1
+    }
+]

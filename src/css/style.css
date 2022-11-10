@@ -1,0 +1,88 @@
+*{
+    margin: 0;
+    padding: 0;
+    box-sizing: border-box;
+    background-color: rgb(219, 194, 148);
+}
+.navBar{
+    width: 100%;
+    height: 120px;
+    display: flex;
+    flex-direction: row;
+    align-items:center;
+    border-bottom: 2px solid white;
+
+}
+.content-img{
+    width: 20%;
+    height: 70%;
+}
+.content-img img{
+    width: 100%;
+    height: 100%;
+}
+.list-menu{
+    font-size: xx-large;
+    width: 70%;
+    height: 30%;
+    margin-right:5px;
+    display: flex; 
+
+}
+.list-menu ul{
+    width: 50%;
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+    
+}
+.list-menu ul li{
+    list-style: none;
+    border-bottom: 1px solid white;
+}
+.list-menu ul li a{
+    text-decoration: solid;
+    color: white;
+}
+.cartWidget{
+    width: 110px;
+    height: 50px;
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    font-size: 2em;
+
+}
+
+.containerZapatillas{
+    width: auto;
+    height: auto;
+    display: flex;
+    justify-content: space-evenly;
+    padding-top: 100px;
+    
+
+}
+.Articulo{
+    width: 250px;
+    height: 350px;
+    box-shadow:  30px 30px 60px #fd8b56,
+                 -30px -30px 60px #f8d4b2;
+    border-radius: 8px;}
+.Imagen{
+    width: 100%;
+    height: 70%;
+}
+.cajaImagen img{
+    width: 100%;
+    height: 100%;
+}
+.Datos{
+    width: 100%;
+    height: 40%;
+    display: flex;
+    align-items: stretch;
+    flex-direction: column;
+    justify-content: space-around;
+    
+}

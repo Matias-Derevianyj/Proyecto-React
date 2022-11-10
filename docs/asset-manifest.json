@@ -1,0 +1,14 @@
+{
+  "files": {
+    "main.css": "/patinetasSkates/static/css/main.04ade94e.css",
+    "main.js": "/patinetasSkates/static/js/main.ee2b2160.js",
+    "static/media/logo2.svg": "/patinetasSkates/static/media/logo2.9ca679c218f3ffc4d6d9deb484d918d3.svg",
+    "index.html": "/patinetasSkates/index.html",
+    "main.04ade94e.css.map": "/patinetasSkates/static/css/main.04ade94e.css.map",
+    "main.ee2b2160.js.map": "/patinetasSkates/static/js/main.ee2b2160.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.04ade94e.css",
+    "static/js/main.ee2b2160.js"
+  ]
+}
