@@ -4,7 +4,11 @@ const inicio = () => {
   return (
     <div>
       <h1>
-        Todavia no puse nada aca jeje
+        Bienvenido a mi pagina de ventas de zapatillas, remeras y accesorios de basquet!
+        <h2>
+          Espero que les guste y encuntren lo que necesiten!
+        </h2>
+
 
       </h1>
     </div>

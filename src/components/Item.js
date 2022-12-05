@@ -1,4 +1,4 @@
-
+import Link from "./Link"
 const Item = ({zapatillas}) => {
   return (
     <div>
@@ -13,6 +13,7 @@ const Item = ({zapatillas}) => {
           <h2>$ {zapatillas.precio}</h2>
           <p>Talles: {zapatillas.talla}</p>
           <p>Disponibilidad: {zapatillas.stock}</p>
+          <Link to={'/product/' + zapatillas.id}>Ver producto</Link>
         </div>
        
       </div>

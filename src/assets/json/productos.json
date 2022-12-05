@@ -61,5 +61,116 @@
         "stock":"10",
         "img":"/img/giannis.jpg",
         "categoria":1
+    },
+    {   
+        "id": 8,
+        "nombre":"Remera Lebron James",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remeralebron.jpg",
+        "categoria":2
+    },
+    {   
+        "id": 9,
+        "nombre":"Remera Stephen Curry",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remeracurry.jpg",
+        "categoria":2
+    },
+    {   
+        "id": 10,
+        "nombre":"Remera Kyrie Irving",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remerairving.jpg",
+        "categoria":2
+    },
+    {   
+        "id": 11,
+        "nombre":"Remera Jayson Tatum",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remeratatum.jpg",
+        "categoria":2
+    },
+    {   
+        "id": 12,
+        "nombre":"Remera Giannis Antetokounmpo",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remeragiannis.jpg",
+        "categoria":2
+    },
+    {   
+        "id": 13,
+        "nombre":"Remera Kobe Bryant",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remera kobe.jpg",
+        "categoria":2
+    },
+    {   
+        "id": 14,
+        "nombre":"Remera Klay Thompson",
+        "precio":12000,
+        "talla":"XS, S, M, L, XL",
+        "stock":"10",
+        "img":"/img/remeraklay.jpeg",
+        "categoria":2
+    },
+    {   
+        "id": 15,
+        "nombre":"Balon Ez Life",
+        "precio":12000,
+        "stock":"10",
+        "img":"/img/balonezlife.jpg",
+        "categoria":3
+    },
+    {   
+        "id": 16,
+        "nombre":"Balon Striker",
+        "precio":12000,
+        "stock":"10",
+        "img":"/img/balonstriker.jpg",
+        "categoria":3
+    },
+    {   
+        "id": 17,
+        "nombre":"Balon Dribbling",
+        "precio":12000,
+        "stock":"10",
+        "img":"/img/balondribbling.jpg",
+        "categoria":3
+    },
+    {   
+        "id": 18,
+        "nombre":"Balon Molten",
+        "precio":12000,
+        "stock":"10",
+        "img":"/img/balonmolten.jpg",
+        "categoria":3
+    },
+    {   
+        "id": 19,
+        "nombre":"Balon Spalding",
+        "precio":12000,
+        "stock":"10",
+        "img":"/img/balonspalding.jpg",
+        "categoria":3
+    },
+    {   
+        "id": 20,
+        "nombre":"Aro de Basquet",
+        "precio":12000,
+        "stock":"10",
+        "img":"/img/aro2.jpg",
+        "categoria":3
     }
 ]
